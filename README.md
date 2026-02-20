@@ -67,11 +67,14 @@ docker run -d --name registerapp -p 8087:8080 regapp:v1
 ## 🏁 Conclusion
 * In this project, I successfully automated the build and deploy process using GitHub, Jenkins, Docker, and AWS EC2. This ensures a faster and more reliable release cycle for Java applications.
 
-## 🛠️ Author & Support
-[Mohamed Amgad Elgamal] 💡
+---
 
-GitHub: [@https://github.com/M0hamedAmgad/]
+## 🛠️ Author & Community   
+I’d love to hear your feedback! Feel free to share your thoughts.  
 
-LinkedIn: [https://www.linkedin.com/in/mohamed-amgad-elgamal]
+📧 **Connect with me:**
 
-⭐ If you found this project helpful, consider starring this repository!
+- **GitHub**: [M0hamedAmgad](https://github.com/NotHarshhaa)    
+- **LinkedIn**: [Mohamed Amgad Elgamal](https://www.linkedin.com/in/mohamed-amgad-elgamal)  
+
+---
