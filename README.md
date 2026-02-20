@@ -61,6 +61,8 @@ The pipeline is designed to automate the following flow:
 cd /opt/docker;
 docker build -t regapp:v1 .;
 docker run -d --name registerapp -p 8087:8080 regapp:v1
+```
+---
 
 ## 🏁 Conclusion
 * In this project, I successfully automated the build and deploy process using GitHub, Jenkins, Docker, and AWS EC2. This ensures a faster and more reliable release cycle for Java applications.
